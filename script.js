@@ -1,4 +1,4 @@
-// minhas variáveis
+// Variável 
 let meuPirata = "Luffy do Chapéu de Palha"
 let pontosXP = 900
 
